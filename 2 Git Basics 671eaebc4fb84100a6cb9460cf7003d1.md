@@ -369,24 +369,6 @@ After fetching from remote can we work simultaneously with it and our local bran
 
 ### Date: April 24, 2024
 
-### Topic:
-
-### Recall
-
-### Notes
-
-- 
-- 
-
-<aside>
-📌 **SUMMARY:**
-
-</aside>
-
----
-
-### Date: April 24, 2024
-
 ### Topic: Push changes to remote
 
 ### Recall
