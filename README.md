@@ -1,5 +1,8 @@
 # Gitssentials
-### Notes taken from ProGit Book. All you need to know about Git if studying for an exam or for daily use.
+**Notes taken from [ProGit Book](https://git-scm.com/book/en/v2).**
+
+**All you need to know about Git if studying for an exam or for daily use**
+
 ``You can use the link provide below description for a better experience``
 
 # ProGit
