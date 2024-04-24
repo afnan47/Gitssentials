@@ -3,11 +3,12 @@
 
 **All you need to know about Git if studying for an exam or for daily use**
 
-The notes follow Cornell Notes System. [Learn more about it](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/).
-``You can use this [link](https://jeweled-linen-6d3.notion.site/ProGit-ab64a078cc4f4a0b8ff3928fafc21c13) for a better experience``
+**The notes follow Cornell Notes System. [Learn more about it](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/).**
+
+**You can use this [link](https://jeweled-linen-6d3.notion.site/ProGit-ab64a078cc4f4a0b8ff3928fafc21c13) for a better experience**
 
 
-# ProGit
+# Chapters
 
 [1. Getting Started](1%20Getting%20Started%20fbe17afadb64427e8bb2eb5e0d6fc646.md)
 
