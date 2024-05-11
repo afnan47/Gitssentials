@@ -83,7 +83,7 @@ Example of VCSs?
 - Solves the problem of centralized vcs.
 - Full history of the file is stored on client computers and in case server dies, the full history of those files can be reuploaded.
 
-![Untitled](Untitled.png)
+![Untitled](1%20Getting%20Started%20fbe17afadb64427e8bb2eb5e0d6fc646/Untitled.png)
 
 - Git, Mercurial are example of distributed version control systems.
 
@@ -113,7 +113,7 @@ The way Git does file versioning helps in creating branches.
 - Git stores different versions of files as a snapshot and not incremental changes.
 - This makes git like miniature filesystem.
 
-![Untitled](Untitled%201.png)
+![Untitled](1%20Getting%20Started%20fbe17afadb64427e8bb2eb5e0d6fc646/Untitled%201.png)
 
 <aside>
 📌 **SUMMARY: Git reconsiders the way versioning systems used to work and  acts like a filesystem.**
@@ -168,7 +168,7 @@ Three states git files can be in?
 - Staged/Index: File marked to go into commit snapshot.
 - Committed/.git directory: File safely stored in database.
 
-![Untitled](Untitled%202.png)
+![Untitled](1%20Getting%20Started%20fbe17afadb64427e8bb2eb5e0d6fc646/Untitled%202.png)
 
 <aside>
 📌 **SUMMARY: The three states that a file is in determines what action to take next to save the file or checkout a particular version of a file.**
