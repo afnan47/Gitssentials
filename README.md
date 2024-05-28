@@ -1,4 +1,4 @@
-# Gitssentials[More Chapters to be added]
+# Gitssentials
 
 **All you need to know about Git for daily use**
 
